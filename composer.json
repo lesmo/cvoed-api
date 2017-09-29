@@ -1,0 +1,16 @@
+{
+    "name": "lesmo/xyz.lesmo.cloud.imssjsproxy",
+    "description": "Proxy PHP que convierte consultas a CVOED de IMSS en JSON utilizable, y ademas filtra los resultados arrojados por el buscado mal hecho del IMSS.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sinuhé Coronel S.",
+            "email": "lesmo@lesmo.com.mx"
+        }
+    ],
+    "require": {
+        "mgargano/simplehtmldom": "^1.5",
+        "slim/slim": "3.0"
+    }
+}
